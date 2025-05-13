@@ -132,6 +132,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- GitHub contribution graph snake animation -->
+<img src="https://raw.githubusercontent.com/Mohit5209/Mohit5209/output/snake.svg" alt="Snake animation" />
 
 ###
